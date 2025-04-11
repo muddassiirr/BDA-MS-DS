@@ -1,0 +1,10 @@
+pandas
+requests
+sqlalchemy
+schedule
+psycopg2-binary
+pytest
+pymongo
+gspread
+oauth2client
+python-dotenv
