@@ -1,0 +1,3 @@
+id,name,temperature_f,humidity,timestamp
+1,Station A,75,65,2025-04-05 08:00:00
+2,Station B,80,70,2025-04-05 08:10:00

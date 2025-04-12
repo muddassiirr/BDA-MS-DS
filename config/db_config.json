@@ -1,0 +1,6 @@
+{
+    "mongodb_uri": "mongodb+srv://moin:2GgqRHHZ2jNc5UBI@task.7x7gf.mongodb.net/?appName=task",
+    "database": "weathere",
+    "collection": "etl_weather"
+  }
+  
